@@ -1,4 +1,4 @@
 <?php
 
 echo "Hello Azure!!";
-echo "This is a web app hosting in Azure app service";
+echo "This is a web app hosting in Azure app service!!";
